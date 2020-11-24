@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status" table="x_alpa2_services_collaborator" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <name>x_alpa2_services_collaborator</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:49:05</sys_created_on>
+            <sys_id>204d90fb1b0a8010c4698777dc4bcba2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status</sys_name>
+            <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+            <sys_update_name>sys_choice_x_alpa2_services_collaborator_status</sys_update_name>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-06 14:49:05</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Banco de currículos</label>
+            <language>en</language>
+            <name>x_alpa2_services_collaborator</name>
+            <sequence>0</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:49:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a44d90fb1b0a8010c4698777dc4bcba1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-07 10:12:32</sys_updated_on>
+            <value>banco_curriculos</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contratado</label>
+            <language>en</language>
+            <name>x_alpa2_services_collaborator</name>
+            <sequence>0</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:49:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c4d583f1b0a8010c4698777dc4bcb81</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-07 10:12:32</sys_updated_on>
+            <value>contratado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Desvinculado</label>
+            <language>en</language>
+            <name>x_alpa2_services_collaborator</name>
+            <sequence>1</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:49:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>284d583f1b0a8010c4698777dc4bcb87</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-07 10:12:32</sys_updated_on>
+            <value>desvinculado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Entrevista</label>
+            <language>en</language>
+            <name>x_alpa2_services_collaborator</name>
+            <sequence>1</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:49:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>284d583f1b0a8010c4698777dc4bcb70</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-07 10:12:32</sys_updated_on>
+            <value>entrevista</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Avaliação técnica</label>
+            <language>en</language>
+            <name>x_alpa2_services_collaborator</name>
+            <sequence>2</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:49:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>244d583f1b0a8010c4698777dc4bcb76</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-07 10:12:32</sys_updated_on>
+            <value>avaliacao_tecnica</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Negociação</label>
+            <language>en</language>
+            <name>x_alpa2_services_collaborator</name>
+            <sequence>3</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:49:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>204d583f1b0a8010c4698777dc4bcb7c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-07 10:12:32</sys_updated_on>
+            <value>negociacao</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

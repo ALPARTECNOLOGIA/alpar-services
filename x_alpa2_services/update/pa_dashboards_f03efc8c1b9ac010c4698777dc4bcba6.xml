@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <breakdown_source/>
+        <color>#ffffff</color>
+        <disable_multiple_element>false</disable_multiple_element>
+        <group/>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>Recrutamento e seleção</name>
+        <no_tabs>false</no_tabs>
+        <order/>
+        <owner display_value="Victor Leite">bd772f5e13b87b40fc16b5b12244b0d9</owner>
+        <restrict_to_roles/>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-01-07 11:51:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f03efc8c1b9ac010c4698777dc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recrutamento e seleção</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>pa_dashboards_f03efc8c1b9ac010c4698777dc4bcba6</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-01-07 11:51:40</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+</record_update>

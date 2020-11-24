@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>url</name>
+        <rest_message_function display_value="Consulta">f558daa71be73b40c4698777dc4bcb70</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-09-03 22:36:57</sys_created_on>
+        <sys_id>9799126b1be73b40c4698777dc4bcbdf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>url</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_9799126b1be73b40c4698777dc4bcbdf</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-09-03 22:37:31</sys_updated_on>
+        <type>string</type>
+        <value>voeazuldev</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

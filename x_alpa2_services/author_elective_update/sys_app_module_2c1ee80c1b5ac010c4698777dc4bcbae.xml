@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Recrutamento e seleção">45aa6cc41b5ac010c4698777dc4bcb7a</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Contatos</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_alpa2_services_contact</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_alpa2_services.hr</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-01-07 10:41:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2c1ee80c1b5ac010c4698777dc4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contatos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sys_app_module_2c1ee80c1b5ac010c4698777dc4bcbae</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-01-07 10:41:01</sys_updated_on>
+        <timeline_page/>
+        <title>Contatos</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services">372274451b637340c4698777dc4bcbe1</application>
+        <file_path/>
+        <instance_id>c2ae219d6f02de004c327b2f5d3ee4dc</instance_id>
+        <instance_name>alparbrdemo1</instance_name>
+        <name>sys_app_module_2c1ee80c1b5ac010c4698777dc4bcbae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Recrutamento e seleção">45aa6cc41b5ac010c4698777dc4bcb7a</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Contatos</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_alpa2_services_contact</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_alpa2_services.hr</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>victor.leite@alparservice.com.br</sys_created_by><sys_created_on>2020-01-07 10:41:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2c1ee80c1b5ac010c4698777dc4bcbae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contatos</sys_name><sys_overrides/><sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package><sys_policy/><sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope><sys_update_name>sys_app_module_2c1ee80c1b5ac010c4698777dc4bcbae</sys_update_name><sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by><sys_updated_on>2020-01-07 10:41:01</sys_updated_on><timeline_page/><title>Contatos</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-517585660</payload_hash>
+        <record_name>Contatos</record_name>
+        <reverted_from/>
+        <source>b722f8851b637340c4698777dc4bcbf1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-01-07 10:41:01</sys_created_on>
+        <sys_id>ac1ee80c1b5ac010c4698777dc4bcbb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f7f97f10b0000001</sys_recorded_at>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-01-07 10:41:01</sys_updated_on>
+        <type>Module</type>
+        <update_guid>e41ee80c4e5ac010f4420b94807f4bb0</update_guid>
+        <update_guid_history>e41ee80c4e5ac010f4420b94807f4bb0:-517585660</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Contatos">429d308c1b9ac010c4698777dc4bcbfd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-01-07 11:48:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>88a0fa70b8604668b6db4d13dbfe5364</sys_id>
+        <sys_metadata>2c1ee80c1b5ac010c4698777dc4bcbae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contatos</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_scope_delete display_value="">10c10ea971a8496086bc7174fedc0f90</sys_scope_delete>
+        <sys_update_name>sys_app_module_2c1ee80c1b5ac010c4698777dc4bcbae</sys_update_name>
+        <sys_update_version display_value="sys_app_module_2c1ee80c1b5ac010c4698777dc4bcbae">ac1ee80c1b5ac010c4698777dc4bcbb0</sys_update_version>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-01-07 11:48:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

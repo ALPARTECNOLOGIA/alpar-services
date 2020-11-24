@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Certificações dos colaboradores" max_length="40" name="x_alpa2_services_m2m_collaborator_cert" sizeclass="1" type="collection">
+        <element default="true" label="Ativo" max_length="40" name="active" type="boolean"/>
+        <element attributes="encode_utf8=false" label="Certificações" mandatory="true" max_length="32" name="certificacoes" reference="x_alpa2_services_certification" type="reference"/>
+        <element attributes="encode_utf8=false" label="Colaborador" mandatory="true" max_length="32" name="colaborador" reference="x_alpa2_services_collaborator" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Data de expiração" max_length="40" name="expiration_date" type="glide_date"/>
+        <index name="index">
+            <element name="colaborador"/>
+        </index>
+        <index name="index2">
+            <element name="certificacoes"/>
+        </index>
+    </element>
+</database>

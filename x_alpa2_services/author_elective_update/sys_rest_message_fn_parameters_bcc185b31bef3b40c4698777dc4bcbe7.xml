@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="DELETE">
+        <name>query</name>
+        <rest_message_function display_value="Validar acesso">9a0145731bef3b40c4698777dc4bcb5d</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-09-04 10:51:36</sys_created_on>
+        <sys_id>bcc185b31bef3b40c4698777dc4bcbe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>query</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_bcc185b31bef3b40c4698777dc4bcbe7</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-09-04 10:51:36</sys_updated_on>
+        <type>string</type>
+        <value/>
+    </sys_rest_message_fn_parameters>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services">372274451b637340c4698777dc4bcbe1</application>
+        <file_path/>
+        <instance_id>c2ae219d6f02de004c327b2f5d3ee4dc</instance_id>
+        <instance_name>alparbrdemo1</instance_name>
+        <name>sys_rest_message_fn_parameters_bcc185b31bef3b40c4698777dc4bcbe7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters"><sys_rest_message_fn_parameters action="INSERT_OR_UPDATE"><name>query</name><rest_message_function display_value="Validar acesso">9a0145731bef3b40c4698777dc4bcb5d</rest_message_function><sys_class_name>sys_rest_message_fn_parameters</sys_class_name><sys_created_by>victor.leite@alparservice.com.br</sys_created_by><sys_created_on>2019-09-04 10:51:36</sys_created_on><sys_id>bcc185b31bef3b40c4698777dc4bcbe7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>query</sys_name><sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package><sys_policy/><sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope><sys_update_name>sys_rest_message_fn_parameters_bcc185b31bef3b40c4698777dc4bcbe7</sys_update_name><sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by><sys_updated_on>2019-09-04 10:51:36</sys_updated_on><type>string</type><value/></sys_rest_message_fn_parameters></record_update>]]></payload>
+        <payload_hash>-2017536845</payload_hash>
+        <record_name>query</record_name>
+        <reverted_from/>
+        <source>b722f8851b637340c4698777dc4bcbf1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-09-04 10:51:36</sys_created_on>
+        <sys_id>74c185b31bef3b40c4698777dc4bcbe9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16cfbe6b3620000001</sys_recorded_at>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-09-04 10:51:36</sys_updated_on>
+        <type>Variable Substitutions</type>
+        <update_guid>bcc185b3dbef3b409c1a7fe615b36ce8</update_guid>
+        <update_guid_history>bcc185b3dbef3b409c1a7fe615b36ce8:-2017536845</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-09-04 10:52:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_parameters">sys_rest_message_fn_parameters</sys_db_object>
+        <sys_id>a4506a8a23444d209227c278a5ce1110</sys_id>
+        <sys_metadata>bcc185b31bef3b40c4698777dc4bcbe7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>query</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_parent display_value="Validar acesso">9a0145731bef3b40c4698777dc4bcb5d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_scope_delete display_value="">10c10ea971a8496086bc7174fedc0f90</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_parameters_bcc185b31bef3b40c4698777dc4bcbe7</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_parameters_bcc185b31bef3b40c4698777dc4bcbe7">74c185b31bef3b40c4698777dc4bcbe9</sys_update_version>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-09-04 10:52:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

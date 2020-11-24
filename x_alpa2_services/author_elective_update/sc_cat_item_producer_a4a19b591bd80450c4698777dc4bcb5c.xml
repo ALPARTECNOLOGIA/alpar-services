@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="DELETE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>Quando você não concordar ou não gostar de algo escreve aqui!</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>796013191bd80450c4698777dc4bcb3f</icon>
+        <ignore_price>false</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Reclamações</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture>56df8f951bd80450c4698777dc4bcbfb</picture>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=a4a19b591bd80450c4698777dc4bcb5c&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles>snc_internal</roles>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script><![CDATA[current.caller = producer.solicitado_para;
+current.item = "a4a19b591bd80450c4698777dc4bcb5c";]]></script>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-04 09:42:28</sys_created_on>
+        <sys_id>a4a19b591bd80450c4698777dc4bcb5c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Reclamações</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sc_cat_item_producer_a4a19b591bd80450c4698777dc4bcb5c</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-04 09:43:02</sys_updated_on>
+        <table_name>x_alpa2_services_request</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="DELETE" query="documentkey=a4a19b591bd80450c4698777dc4bcb5c"/>
+    <fx_price action="DELETE" query="id=a4a19b591bd80450c4698777dc4bcb5c"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="BRL">BRL</currency>
+        <field>price</field>
+        <id>a4a19b591bd80450c4698777dc4bcb5c</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-04 09:42:28</sys_created_on>
+        <sys_id>e4a19b591bd80450c4698777dc4bcb5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-04 09:42:28</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="BRL">BRL</currency>
+        <field>recurring_price</field>
+        <id>a4a19b591bd80450c4698777dc4bcb5c</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-04 09:42:28</sys_created_on>
+        <sys_id>20a19b591bd80450c4698777dc4bcb5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-04 09:42:28</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services">372274451b637340c4698777dc4bcbe1</application>
+        <file_path/>
+        <instance_id>c2ae219d6f02de004c327b2f5d3ee4dc</instance_id>
+        <instance_name>alparbrdemo1</instance_name>
+        <name>sc_cat_item_producer_a4a19b591bd80450c4698777dc4bcb5c</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer"&gt;&lt;sc_cat_item_producer action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_both&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan/&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;Quando você não concordar ou não gostar de algo escreve aqui!&lt;/p&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon&gt;796013191bd80450c4698777dc4bcb3f&lt;/icon&gt;&lt;ignore_price&gt;false&lt;/ignore_price&gt;&lt;image/&gt;&lt;list_price&gt;0&lt;/list_price&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Reclamações&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;picture&gt;56df8f951bd80450c4698777dc4bcbfb&lt;/picture&gt;&lt;post_insert_script/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=a4a19b591bd80450c4698777dc4bcb5c&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;recurring_frequency/&gt;&lt;recurring_price&gt;0&lt;/recurring_price&gt;&lt;redirect_url&gt;generated_record&lt;/redirect_url&gt;&lt;request_method/&gt;&lt;roles&gt;snc_internal&lt;/roles&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;script&gt;&lt;![CDATA[current.caller = producer.solicitado_para;
+current.item = "a4a19b591bd80450c4698777dc4bcb5c";]]&gt;&lt;/script&gt;&lt;short_description/&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;victor.leite@alparservice.com.br&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-04 09:42:28&lt;/sys_created_on&gt;&lt;sys_id&gt;a4a19b591bd80450c4698777dc4bcb5c&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Reclamações&lt;/sys_name&gt;&lt;sys_package display_value="Services" source="x_alpa2_services"&gt;372274451b637340c4698777dc4bcbe1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Services"&gt;372274451b637340c4698777dc4bcbe1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_producer_a4a19b591bd80450c4698777dc4bcb5c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;victor.leite@alparservice.com.br&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-04 09:43:02&lt;/sys_updated_on&gt;&lt;table_name&gt;x_alpa2_services_request&lt;/table_name&gt;&lt;template/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a4a19b591bd80450c4698777dc4bcb5c"/&gt;&lt;fx_price action="delete_multiple" query="id=a4a19b591bd80450c4698777dc4bcb5c"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="BRL"&gt;BRL&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;a4a19b591bd80450c4698777dc4bcb5c&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;victor.leite@alparservice.com.br&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-04 09:42:28&lt;/sys_created_on&gt;&lt;sys_id&gt;e4a19b591bd80450c4698777dc4bcb5d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;victor.leite@alparservice.com.br&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-04 09:42:28&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="BRL"&gt;BRL&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;a4a19b591bd80450c4698777dc4bcb5c&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;victor.leite@alparservice.com.br&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-04 09:42:28&lt;/sys_created_on&gt;&lt;sys_id&gt;20a19b591bd80450c4698777dc4bcb5e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;victor.leite@alparservice.com.br&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-04 09:42:28&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-541159394</payload_hash>
+        <record_name>Reclamações</record_name>
+        <reverted_from/>
+        <source>b722f8851b637340c4698777dc4bcbf1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-04 09:43:02</sys_created_on>
+        <sys_id>0dc15f591bd80450c4698777dc4bcb64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d9626b7ae0000001</sys_recorded_at>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-04 09:43:02</sys_updated_on>
+        <type>Record Producer</type>
+        <update_guid>45c15f59b3d80450b78270a5391caa64</update_guid>
+        <update_guid_history>45c15f59b3d80450b78270a5391caa64:-541159394,b7a1db5989d80450a13e675eb1614a4d:-116612712,f0a19b592ad80450160c9b2bcc889d66:1725971408</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Reclamações">d9c15f591bd80450c4698777dc4bcb77</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-04 09:43:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_producer">sc_cat_item_producer</sys_db_object>
+        <sys_id>9725c5f7c1c145c0924551df60b66769</sys_id>
+        <sys_metadata>a4a19b591bd80450c4698777dc4bcb5c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reclamações</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_parent display_value="Requisição">c3327c851b637340c4698777dc4bcbc5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_scope_delete display_value="">10c10ea971a8496086bc7174fedc0f90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_producer_a4a19b591bd80450c4698777dc4bcb5c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_producer_a4a19b591bd80450c4698777dc4bcb5c">0dc15f591bd80450c4698777dc4bcb64</sys_update_version>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-04 09:43:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

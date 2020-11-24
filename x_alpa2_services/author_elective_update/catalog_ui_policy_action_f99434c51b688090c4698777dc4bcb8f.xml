@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item/>
+        <catalog_variable>IO:ba2138c11b688090c4698777dc4bcbfc</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-15 13:53:41</sys_created_on>
+        <sys_id>f99434c51b688090c4698777dc4bcb8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>qual_o_oportunidade</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_f99434c51b688090c4698777dc4bcb8f</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-15 13:53:41</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Tipo">0c54bc851b688090c4698777dc4bcb97</ui_policy>
+        <variable>qual_o_oportunidade</variable>
+        <variable_set display_value="Identificação do projeto">dacfa0811b688090c4698777dc4bcb29</variable_set>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services">372274451b637340c4698777dc4bcbe1</application>
+        <file_path/>
+        <instance_id>c2ae219d6f02de004c327b2f5d3ee4dc</instance_id>
+        <instance_name>alparbrdemo1</instance_name>
+        <name>catalog_ui_policy_action_f99434c51b688090c4698777dc4bcb8f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item/><catalog_variable>IO:ba2138c11b688090c4698777dc4bcbfc</catalog_variable><cleared>true</cleared><disabled>ignore</disabled><field/><mandatory>false</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>victor.leite@alparservice.com.br</sys_created_by><sys_created_on>2019-10-15 13:53:41</sys_created_on><sys_id>f99434c51b688090c4698777dc4bcb8f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>qual_o_oportunidade</sys_name><sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package><sys_policy/><sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope><sys_update_name>catalog_ui_policy_action_f99434c51b688090c4698777dc4bcb8f</sys_update_name><sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by><sys_updated_on>2019-10-15 13:53:41</sys_updated_on><table/><ui_policy display_value="Tipo">0c54bc851b688090c4698777dc4bcb97</ui_policy><variable>qual_o_oportunidade</variable><variable_set display_value="Identificação do projeto">dacfa0811b688090c4698777dc4bcb29</variable_set><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1467124157</payload_hash>
+        <record_name>qual_o_oportunidade</record_name>
+        <reverted_from/>
+        <source>b722f8851b637340c4698777dc4bcbf1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-15 13:53:41</sys_created_on>
+        <sys_id>7b94f0c51b688090c4698777dc4bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dcfb222d10000001</sys_recorded_at>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-15 13:53:41</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>b394f0c57d6880905236929026d0b844</update_guid>
+        <update_guid_history>b394f0c57d6880905236929026d0b844:-1467124157</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="qual_o_oportunidade">aba4b4c51b688090c4698777dc4bcbfb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-15 13:53:56</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>00168859f0ae436c80038d156b11e6c4</sys_id>
+        <sys_metadata>f99434c51b688090c4698777dc4bcb8f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>qual_o_oportunidade</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_scope_delete display_value="">10c10ea971a8496086bc7174fedc0f90</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_f99434c51b688090c4698777dc4bcb8f</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_f99434c51b688090c4698777dc4bcb8f">7b94f0c51b688090c4698777dc4bcb44</sys_update_version>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-15 13:53:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

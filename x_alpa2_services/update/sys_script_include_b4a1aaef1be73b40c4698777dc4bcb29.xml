@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_alpa2_services.RecordProducedValidation</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>RecordProducedValidation</name>
+        <script><![CDATA[var RecordProducedValidation = Class.create();
+RecordProducedValidation.prototype = {
+	initialize: function() {
+	},
+
+	run : function(access, validation, request){
+		var listRecord = this.getRecord(access, validation, request);
+		var errorValidation = this.validation(listRecord);
+		this.saveErrorValidation(request, validation, errorValidation);
+	},
+
+	saveErrorValidation : function(request, validation, errorList){
+		errorList.forEach(function(errorItem){
+			var grContextValidation = new GlideRecord("x_alpa2_services_validation_context");
+			grContextValidation.initialize();
+			grContextValidation.table = errorItem.table;
+			grContextValidation.record_id = errorItem.record;
+			grContextValidation.symptom = errorItem.symptom;
+			grContextValidation.validation = validation;
+			grContextValidation.request = request.task;
+			grContextValidation.shortcut = "https://"+ request.url +".service-now.com/" + errorItem.table + ".do?sys_id=" + errorItem.record;
+			grContextValidation.insert();
+		});
+
+	},
+
+	validation : function(listRecord){
+		var listError = [];
+		var _self = this;
+		listRecord.forEach(function(item){
+			if(_self._validField(item.script, "assignment_group")){
+				listError.push({
+					"symptom" : "Regra de designação para grupos devem está em Assignment Rules",
+					"table" : item.sys_class_name,
+					"record" : item.sys_id
+				});
+			}
+
+			if(_self._validField(item.script, "assigned_to")){
+				listError.push({
+					"symptom" : "Regra de designação para usuários devem está em Assignment Rules",
+					"table" : item.sys_class_name,
+					"record" : item.sys_id
+				});
+			}
+
+			if(_self._validGuid(item.script)){
+				listError.push({
+					"symptom" : "Os scripts não podem ter id (Guid) fixos",
+					"table" : item.sys_class_name,
+					"record" : item.sys_id
+				});
+			}
+
+		});
+
+		return listError;
+	},
+
+	_validField : function(valor, campo){
+		var found = false;
+
+		var position = valor.search(campo);
+		found = position != -1 ? true : false;
+
+		return found;
+	},
+
+
+	_validGuid : function(valor){
+		var found = false;
+
+		var pattern = /(\{){0,1}[0-9a-fA-F]{32}/g;
+		var position = valor.search(pattern);
+		found = position != -1 ? true : false;
+
+		return found;
+	},
+
+	getRecord : function(access, validation, request){
+
+		try { 
+			var list = [];
+			var r = new sn_ws.RESTMessageV2('x_alpa2_services.Health scan - Record Producer', 'Consulta');
+			r.setStringParameterNoEscape('limit', request.limit);
+			r.setStringParameterNoEscape('query', request.query);
+			r.setStringParameterNoEscape('url', request.url);
+			r.setBasicAuth(access.user, access.pwd);
+
+			var response = r.execute();
+			var responseBody = response.getBody();
+			var httpStatus = response.getStatusCode();
+
+			if(httpStatus == 200){
+				gs.info(responseBody);
+				var responseJson = JSON.parse(responseBody);
+				list = responseJson.result;
+			}
+
+			return list;
+		}
+		catch(ex) {
+			var message = ex.message;
+		}
+	},
+
+	type: 'RecordProducedValidation'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-09-03 23:12:13</sys_created_on>
+        <sys_id>b4a1aaef1be73b40c4698777dc4bcb29</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>RecordProducedValidation</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sys_script_include_b4a1aaef1be73b40c4698777dc4bcb29</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-09-04 12:19:09</sys_updated_on>
+    </sys_script_include>
+</record_update>

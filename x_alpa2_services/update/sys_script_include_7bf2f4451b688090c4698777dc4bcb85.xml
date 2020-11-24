@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_alpa2_services.ServicesVariableFilterUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>ServicesVariableFilterUtils</name>
+        <script><![CDATA[var ServicesVariableFilterUtils = Class.create();
+ServicesVariableFilterUtils.prototype = {
+    initialize: function() {
+    },
+	
+	opportunityByCustomer : function(value){
+		gs.info("[VLOG1] " + value);
+		gs.info("[VLOG1] filter");
+		gs.addInfoMessage(value);
+		return "customerISNOTEMPTY^customer=" + value;
+	},
+
+    type: 'ServicesVariableFilterUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-15 13:47:56</sys_created_on>
+        <sys_id>7bf2f4451b688090c4698777dc4bcb85</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ServicesVariableFilterUtils</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sys_script_include_7bf2f4451b688090c4698777dc4bcb85</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-15 13:50:46</sys_updated_on>
+    </sys_script_include>
+</record_update>

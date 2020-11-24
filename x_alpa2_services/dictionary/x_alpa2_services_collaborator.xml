@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="sys_user" label="Colaborador" max_length="40" name="x_alpa2_services_collaborator" sizeclass="2" type="collection">
+        <element label="Data de nascimento" max_length="40" name="birth" type="glide_date"/>
+        <element choice="1" label="Estado civil" max_length="40" name="marital_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Solteiro" sequence="0" value="single"/>
+                <element inactive_on_update="false" label="Casado" sequence="1" value="married"/>
+                <element inactive_on_update="false" label="Divorciado" sequence="2" value="divorced"/>
+                <element inactive_on_update="false" label="Viúvo" sequence="3" value="widower"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="contratado" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Banco de currículos" sequence="0" value="banco_curriculos"/>
+                <element inactive_on_update="false" label="Contratado" sequence="0" value="contratado"/>
+                <element inactive_on_update="false" label="Desvinculado" sequence="1" value="desvinculado"/>
+                <element inactive="true" inactive_on_update="true" label="Entrevista" sequence="1" value="entrevista"/>
+                <element inactive="true" inactive_on_update="true" label="Avaliação técnica" sequence="2" value="avaliacao_tecnica"/>
+                <element inactive="true" inactive_on_update="true" label="Negociação" sequence="3" value="negociacao"/>
+            </choice>
+        </element>
+    </element>
+</database>

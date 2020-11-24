@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Requisição" max_length="40" name="x_alpa2_services_request" sizeclass="9" type="collection">
+        <element label="Solicitante" max_length="32" name="caller" read_only="true" reference="sys_user" type="reference"/>
+        <element label="Contexto" max_length="32" name="context" reference="wf_context" type="reference"/>
+        <element label="Item" max_length="32" name="item" read_only="true" reference="sc_cat_item_producer" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="state" dependent_on_field="state" label="Motivo de pendência" max_length="40" name="pending_reason" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="-5" inactive_on_update="false" label="Aprovação" sequence="0" value="approval"/>
+                <element dependent_value="-5" inactive_on_update="false" label="Informação do usuário" sequence="1" value="info_user"/>
+                <element dependent_value="-5" inactive_on_update="false" label="Informação de terceiro" sequence="2" value="Info_third"/>
+            </choice>
+        </element>
+        <element label="Fase" max_length="80" name="stage" type="workflow"/>
+    </element>
+</database>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile_scope">
+    <oauth_entity_profile_scope action="DELETE">
+        <oauth_entity_profile display_value="Google default_profile">8e8691591bbdc0106ab9dd3abc4bcbb2</oauth_entity_profile>
+        <oauth_entity_scope display_value="Token">0d9b1d9d1bbdc0106ab9dd3abc4bcbc6</oauth_entity_scope>
+        <sys_class_name>oauth_entity_profile_scope</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-12-17 14:48:55</sys_created_on>
+        <sys_id>e75ddd9d1bbdc0106ab9dd3abc4bcb24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8e8691591bbdc0106ab9dd3abc4bcbb2</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>oauth_entity_profile_scope_e75ddd9d1bbdc0106ab9dd3abc4bcb24</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-12-17 14:48:55</sys_updated_on>
+    </oauth_entity_profile_scope>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services">372274451b637340c4698777dc4bcbe1</application>
+        <file_path/>
+        <instance_id>c2ae219d6f02de004c327b2f5d3ee4dc</instance_id>
+        <instance_name>alparbrdemo1</instance_name>
+        <name>oauth_entity_profile_scope_e75ddd9d1bbdc0106ab9dd3abc4bcb24</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile_scope"><oauth_entity_profile_scope action="INSERT_OR_UPDATE"><oauth_entity_profile display_value="Google default_profile">8e8691591bbdc0106ab9dd3abc4bcbb2</oauth_entity_profile><oauth_entity_scope display_value="Token">0d9b1d9d1bbdc0106ab9dd3abc4bcbc6</oauth_entity_scope><sys_class_name>oauth_entity_profile_scope</sys_class_name><sys_created_by>victor.leite@alparservice.com.br</sys_created_by><sys_created_on>2019-12-17 14:48:55</sys_created_on><sys_id>e75ddd9d1bbdc0106ab9dd3abc4bcb24</sys_id><sys_mod_count>0</sys_mod_count><sys_name>8e8691591bbdc0106ab9dd3abc4bcbb2</sys_name><sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package><sys_policy/><sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope><sys_update_name>oauth_entity_profile_scope_e75ddd9d1bbdc0106ab9dd3abc4bcb24</sys_update_name><sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by><sys_updated_on>2019-12-17 14:48:55</sys_updated_on></oauth_entity_profile_scope></record_update>]]></payload>
+        <payload_hash>386944388</payload_hash>
+        <record_name>8e8691591bbdc0106ab9dd3abc4bcbb2</record_name>
+        <reverted_from/>
+        <source>b722f8851b637340c4698777dc4bcbf1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-12-17 14:48:55</sys_created_on>
+        <sys_id>1b6dd1511bfdc0106ab9dd3abc4bcb09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f145559660000001</sys_recorded_at>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-12-17 14:48:55</sys_updated_on>
+        <type>OAuth Entity Profile Scope</type>
+        <update_guid>536dd15166fdc01031fa8a29b1c86e09</update_guid>
+        <update_guid_history>536dd15166fdc01031fa8a29b1c86e09:386944388</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Google default_profile">711edd511bfdc0106ab9dd3abc4bcb3e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-12-17 14:51:49</sys_created_on>
+        <sys_db_object display_value="" name="oauth_entity_profile_scope">oauth_entity_profile_scope</sys_db_object>
+        <sys_id>1232b74f4afa47698c2c36e563505f29</sys_id>
+        <sys_metadata>e75ddd9d1bbdc0106ab9dd3abc4bcb24</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8e8691591bbdc0106ab9dd3abc4bcbb2</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_scope_delete display_value="">10c10ea971a8496086bc7174fedc0f90</sys_scope_delete>
+        <sys_update_name>oauth_entity_profile_scope_e75ddd9d1bbdc0106ab9dd3abc4bcb24</sys_update_name>
+        <sys_update_version display_value="oauth_entity_profile_scope_e75ddd9d1bbdc0106ab9dd3abc4bcb24">1b6dd1511bfdc0106ab9dd3abc4bcb09</sys_update_version>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-12-17 14:51:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

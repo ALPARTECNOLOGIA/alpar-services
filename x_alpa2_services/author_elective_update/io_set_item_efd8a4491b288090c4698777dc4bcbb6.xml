@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>300</order>
+        <sc_cat_item display_value="Viagem">9b6764091b288090c4698777dc4bcb1e</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-15 13:02:20</sys_created_on>
+        <sys_id>efd8a4491b288090c4698777dc4bcbb6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Ida.Viagem</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>io_set_item_efd8a4491b288090c4698777dc4bcbb6</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-15 13:10:15</sys_updated_on>
+        <variable_set display_value="Ida">0cd824891b288090c4698777dc4bcbd1</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services">372274451b637340c4698777dc4bcbe1</application>
+        <file_path/>
+        <instance_id>c2ae219d6f02de004c327b2f5d3ee4dc</instance_id>
+        <instance_name>alparbrdemo1</instance_name>
+        <name>io_set_item_efd8a4491b288090c4698777dc4bcbb6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>300</order><sc_cat_item display_value="Viagem">9b6764091b288090c4698777dc4bcb1e</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>victor.leite@alparservice.com.br</sys_created_by><sys_created_on>2019-10-15 13:02:20</sys_created_on><sys_id>efd8a4491b288090c4698777dc4bcbb6</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Ida.Viagem</sys_name><sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package><sys_policy/><sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope><sys_update_name>io_set_item_efd8a4491b288090c4698777dc4bcbb6</sys_update_name><sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by><sys_updated_on>2019-10-15 13:10:15</sys_updated_on><variable_set display_value="Ida">0cd824891b288090c4698777dc4bcbd1</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-645802778</payload_hash>
+        <record_name>Ida.Viagem</record_name>
+        <reverted_from/>
+        <source>b722f8851b637340c4698777dc4bcbf1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-15 13:10:15</sys_created_on>
+        <sys_id>efaaa40d1b288090c4698777dc4bcb1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dcf8a60c20000001</sys_recorded_at>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-15 13:10:15</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>2baaa40db9288090137dd2ee549b5c1a</update_guid>
+        <update_guid_history>2baaa40db9288090137dd2ee549b5c1a:-645802778,2fd8a4897f288090966471ac595119e8:330230308</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Ida.Viagem">0b8be44d1b288090c4698777dc4bcb6e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-15 13:14:02</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>6baffacd25b54eb8b3be29d5830ab749</sys_id>
+        <sys_metadata>efd8a4491b288090c4698777dc4bcbb6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ida.Viagem</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_scope_delete display_value="">10c10ea971a8496086bc7174fedc0f90</sys_scope_delete>
+        <sys_update_name>io_set_item_efd8a4491b288090c4698777dc4bcbb6</sys_update_name>
+        <sys_update_version display_value="io_set_item_efd8a4491b288090c4698777dc4bcbb6">efaaa40d1b288090c4698777dc4bcb1a</sys_update_version>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-15 13:14:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

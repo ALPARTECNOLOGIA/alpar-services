@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Document field" max_length="40" name="x_alpa2_services_document_field" sizeclass="1" type="collection">
+        <element label="Tipo de documento" mandatory="true" max_length="32" name="document_type" reference="x_alpa2_services_document_type" type="reference"/>
+        <element label="Identificador" mandatory="true" max_length="40" name="identifier" type="string"/>
+        <element label="Máscara" max_length="40" name="mask" type="string"/>
+        <element label="Nome" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Número" max_length="40" name="number" read_only="true" type="string"/>
+        <element default="0" label="Ordem" mandatory="true" max_length="40" name="order" type="integer"/>
+        <element label="Tabela de referencia" max_length="80" name="table" type="table_name"/>
+        <element choice="3" default="string" label="Tipo" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Texto" sequence="1" value="string"/>
+                <element inactive_on_update="false" label="Data" sequence="2" value="date"/>
+                <element inactive_on_update="false" label="Seleção" sequence="3" value="choice"/>
+                <element inactive="true" inactive_on_update="true" label="Referencia" sequence="4" value="reference"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="document_type"/>
+        </index>
+    </element>
+</database>

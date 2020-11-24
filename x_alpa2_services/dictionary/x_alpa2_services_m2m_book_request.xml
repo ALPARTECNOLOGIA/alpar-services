@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Services M2m Book Request" max_length="40" name="x_alpa2_services_m2m_book_request" sizeclass="0" type="collection">
+        <element label="Livros" max_length="32" name="book" reference="x_alpa2_services_book" type="reference"/>
+        <element label="Requisição" max_length="32" name="request" reference="x_alpa2_services_request" type="reference"/>
+        <index name="index">
+            <element name="request"/>
+        </index>
+        <index name="index2">
+            <element name="book"/>
+        </index>
+    </element>
+</database>

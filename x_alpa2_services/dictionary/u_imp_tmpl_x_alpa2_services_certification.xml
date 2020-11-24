@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Alpa2 Services Certification" max_length="40" name="u_imp_tmpl_x_alpa2_services_certification" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Ativo" label="Ativo" max_length="40" name="u_ativo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Categoria" label="Categoria" max_length="40" name="u_categoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Empresa" label="Empresa" max_length="32" name="u_empresa" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nome" label="Nome" max_length="100" name="u_nome" type="string"/>
+    </element>
+</database>

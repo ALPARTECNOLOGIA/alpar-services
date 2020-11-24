@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Tarefa de serviço" max_length="40" name="x_alpa2_services_task" sizeclass="4" type="collection">
+        <element label="Requisição" max_length="32" name="request" reference="x_alpa2_services_request" type="reference"/>
+    </element>
+</database>

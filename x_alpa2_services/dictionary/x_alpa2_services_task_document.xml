@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_alpa2_services_task" label="Tarefa de documento" max_length="40" name="x_alpa2_services_task_document" sizeclass="1" type="collection">
+        <element label="Tipo documento" mandatory="true" max_length="32" name="document_type" reference="x_alpa2_services_document_type" type="reference"/>
+        <element attributes="encode_utf8=false" label="Dono" mandatory="true" max_length="32" name="owner" reference="x_alpa2_services_collaborator" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Validade" max_length="40" name="validated" type="glide_date"/>
+    </element>
+</database>

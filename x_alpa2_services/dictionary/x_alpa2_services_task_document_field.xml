@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Campos de tarefa de documentos" max_length="40" name="x_alpa2_services_task_document_field" sizeclass="1" type="collection">
+        <element label="Campo de documento" mandatory="true" max_length="32" name="document_field" reference="x_alpa2_services_document_field" type="reference"/>
+        <element label="Tarefa" mandatory="true" max_length="32" name="document_task" reference="x_alpa2_services_task_document" type="reference"/>
+        <element label="Valor" mandatory="true" max_length="40" name="value" type="string"/>
+        <index name="index">
+            <element name="document_task"/>
+        </index>
+        <index name="index2">
+            <element name="document_field"/>
+        </index>
+    </element>
+</database>

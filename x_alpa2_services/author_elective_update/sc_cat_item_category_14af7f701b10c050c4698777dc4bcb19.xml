@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Emprestar livro">c0affffc1bdc8050c4698777dc4bcb08</sc_cat_item>
+        <sc_category display_value="Biblioteca">805f278d1b6b7340c4698777dc4bcba5</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-02 23:46:27</sys_created_on>
+        <sys_id>14af7f701b10c050c4698777dc4bcb19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Biblioteca.Emprestar livro</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sc_cat_item_category_14af7f701b10c050c4698777dc4bcb19</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-02 23:46:27</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services">372274451b637340c4698777dc4bcbe1</application>
+        <file_path/>
+        <instance_id>c2ae219d6f02de004c327b2f5d3ee4dc</instance_id>
+        <instance_name>alparbrdemo1</instance_name>
+        <name>sc_cat_item_category_14af7f701b10c050c4698777dc4bcb19</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Emprestar livro">c0affffc1bdc8050c4698777dc4bcb08</sc_cat_item><sc_category display_value="Biblioteca">805f278d1b6b7340c4698777dc4bcba5</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>victor.leite@alparservice.com.br</sys_created_by><sys_created_on>2019-10-02 23:46:27</sys_created_on><sys_id>14af7f701b10c050c4698777dc4bcb19</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Biblioteca.Emprestar livro</sys_name><sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package><sys_policy/><sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope><sys_update_name>sc_cat_item_category_14af7f701b10c050c4698777dc4bcb19</sys_update_name><sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by><sys_updated_on>2019-10-02 23:46:27</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>536220253</payload_hash>
+        <record_name>Biblioteca.Emprestar livro</record_name>
+        <reverted_from/>
+        <source>b722f8851b637340c4698777dc4bcbf1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-02 23:46:27</sys_created_on>
+        <sys_id>10af7f701b10c050c4698777dc4bcb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d8ede2bf00000001</sys_recorded_at>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-02 23:46:27</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>58af7f705e10c05073544c2cb0daff1b</update_guid>
+        <update_guid_history>58af7f705e10c05073544c2cb0daff1b:536220253</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Biblioteca.Emprestar livro">7d9f87551bd80450c4698777dc4bcbb8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-04 09:33:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>532ae5cb7e3b4708adaae290f93bb710</sys_id>
+        <sys_metadata>14af7f701b10c050c4698777dc4bcb19</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Biblioteca.Emprestar livro</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_parent display_value="Sugestões">c0affffc1bdc8050c4698777dc4bcb08</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_scope_delete display_value="">10c10ea971a8496086bc7174fedc0f90</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_14af7f701b10c050c4698777dc4bcb19</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_14af7f701b10c050c4698777dc4bcb19">10af7f701b10c050c4698777dc4bcb1c</sys_update_version>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-04 09:33:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="pending_reason" table="x_alpa2_services_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>pending_reason</element>
+            <name>x_alpa2_services_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-08-26 21:44:32</sys_created_on>
+            <sys_id>2de04d411ba37340c4698777dc4bcb70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>pending_reason</sys_name>
+            <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+            <sys_update_name>sys_choice_x_alpa2_services_request_pending_reason</sys_update_name>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-08-26 21:44:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>-5</dependent_value>
+            <element>pending_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aprovação</label>
+            <language>en</language>
+            <name>x_alpa2_services_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-08-26 21:44:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1e04d411ba37340c4698777dc4bcb70</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-08-26 21:45:38</sys_updated_on>
+            <value>approval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>-5</dependent_value>
+            <element>pending_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Informação do usuário</label>
+            <language>en</language>
+            <name>x_alpa2_services_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-08-26 21:44:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5e085811ba37340c4698777dc4bcbeb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-08-26 21:45:42</sys_updated_on>
+            <value>info_user</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>-5</dependent_value>
+            <element>pending_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Informação de terceiro</label>
+            <language>en</language>
+            <name>x_alpa2_services_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-08-26 21:44:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1e085811ba37340c4698777dc4bcbed</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-08-26 21:45:49</sys_updated_on>
+            <value>Info_third</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

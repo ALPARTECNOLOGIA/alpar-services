@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_alpa2_services_task_document" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_alpa2_services_task_document</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:00:51</sys_created_on>
+            <sys_id>4e3250bf1bc68010c4698777dc4bcbfb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+            <sys_update_name>sys_choice_x_alpa2_services_task_document_state</sys_update_name>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-06 14:00:51</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aguardando envio</label>
+            <language>en</language>
+            <name>x_alpa2_services_task_document</name>
+            <sequence>0</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:00:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c63250bf1bc68010c4698777dc4bcbfd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-06 14:23:32</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Enviado</label>
+            <language>en</language>
+            <name>x_alpa2_services_task_document</name>
+            <sequence>0</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:00:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>023290bf1bc68010c4698777dc4bcb03</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-06 14:23:32</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aprovado</label>
+            <language>en</language>
+            <name>x_alpa2_services_task_document</name>
+            <sequence>1</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:00:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>063250bf1bc68010c4698777dc4bcbff</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-06 14:23:32</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejeitado</label>
+            <language>en</language>
+            <name>x_alpa2_services_task_document</name>
+            <sequence>2</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:00:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>823290bf1bc68010c4698777dc4bcb01</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-06 14:23:32</sys_updated_on>
+            <value>12</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vencido</label>
+            <language>en</language>
+            <name>x_alpa2_services_task_document</name>
+            <sequence>3</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2020-01-06 14:23:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a6758771b0a8010c4698777dc4bcb79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2020-01-06 14:23:32</sys_updated_on>
+            <value>14</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

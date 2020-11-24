@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">ef3e30cc1b9ac010c4698777dc4bcb7c</grid_canvas>
+        <height>12</height>
+        <portal_widget display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_widget>
+        <posx>0</posx>
+        <posy>4</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-01-07 12:13:50</sys_created_on>
+        <sys_id>c45389841bdac010c4698777dc4bcba3</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>ef3e30cc1b9ac010c4698777dc4bcb7c</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_c45389841bdac010c4698777dc4bcba3</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-01-07 12:25:56</sys_updated_on>
+        <width>3</width>
+    </sys_grid_canvas_pane>
+</record_update>

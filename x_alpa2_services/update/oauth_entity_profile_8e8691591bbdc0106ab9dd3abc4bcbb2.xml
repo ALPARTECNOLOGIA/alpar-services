@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>authorization_code</grant_type>
+        <jwt_provider/>
+        <name>Google default_profile</name>
+        <oauth_entity display_value="Google">9c1611d51bbdc0106ab9dd3abc4bcbe1</oauth_entity>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-12-17 14:18:48</sys_created_on>
+        <sys_id>8e8691591bbdc0106ab9dd3abc4bcbb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google default_profile</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>oauth_entity_profile_8e8691591bbdc0106ab9dd3abc4bcbb2</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-12-17 14:18:48</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>

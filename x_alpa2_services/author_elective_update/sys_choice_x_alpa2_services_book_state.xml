@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_alpa2_services_book" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_alpa2_services_book</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-09-03 11:24:52</sys_created_on>
+            <sys_id>92cf77171b233b40c4698777dc4bcb86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+            <sys_update_name>sys_choice_x_alpa2_services_book_state</sys_update_name>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-09-03 11:24:52</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rascunho</label>
+            <language>en</language>
+            <name>x_alpa2_services_book</name>
+            <sequence>0</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-09-03 11:37:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82a20ce71b233b40c4698777dc4bcbd6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-09-03 11:37:38</sys_updated_on>
+            <value>draft</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dispoinível</label>
+            <language>en</language>
+            <name>x_alpa2_services_book</name>
+            <sequence>1</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-09-03 11:24:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1acf77171b233b40c4698777dc4bcb85</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-09-03 11:37:24</sys_updated_on>
+            <value>available</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reservado</label>
+            <language>en</language>
+            <name>x_alpa2_services_book</name>
+            <sequence>2</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-09-03 13:33:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd4dd46f1b633b40c4698777dc4bcbf7</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-09-03 13:36:34</sys_updated_on>
+            <value>reserve</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Emprestado</label>
+            <language>en</language>
+            <name>x_alpa2_services_book</name>
+            <sequence>3</sequence>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-09-03 11:24:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dacf77171b233b40c4698777dc4bcb86</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-09-03 13:33:40</sys_updated_on>
+            <value>lent</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

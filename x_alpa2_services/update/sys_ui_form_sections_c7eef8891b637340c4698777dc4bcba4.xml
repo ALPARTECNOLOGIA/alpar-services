@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c7eef8891b637340c4698777dc4bcba4" sys_domain="global" table="x_alpa2_services_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-08-26 21:35:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3eef8891b637340c4698777dc4bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_alpa2_services_request" name="x_alpa2_services_request" sys_domain="global" view="Default view">c7eef8891b637340c4698777dc4bcba4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_alpa2_services_request" sys_domain="global" view="Default view">71b230c51b637340c4698777dc4bcb37</sys_ui_section>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-08-26 21:35:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-08-26 21:35:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8feef8891b637340c4698777dc4bcba6</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_alpa2_services_request" name="x_alpa2_services_request" sys_domain="global" view="Default view">c7eef8891b637340c4698777dc4bcba4</sys_ui_form>
+            <sys_ui_section caption="Histórico" display_value="Histórico" name="x_alpa2_services_request" sys_domain="global" view="Default view">0feef8891b637340c4698777dc4bcba5</sys_ui_section>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-09-03 10:53:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-08-26 21:36:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d0fb88d1b637340c4698777dc4bcbe1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_alpa2_services_request" name="x_alpa2_services_request" sys_domain="global" view="Default view">c7eef8891b637340c4698777dc4bcba4</sys_ui_form>
+            <sys_ui_section caption="Informações de fechamento" display_value="Informações de fechamento" name="x_alpa2_services_request" sys_domain="global" view="Default view">5d0fb88d1b637340c4698777dc4bcbdf</sys_ui_section>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-09-03 10:53:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_alpa2_services_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+            <sys_created_on>2019-08-26 21:35:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7eef8891b637340c4698777dc4bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_alpa2_services_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c7eef8891b637340c4698777dc4bcba4</sys_update_name>
+            <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+            <sys_updated_on>2019-08-26 21:35:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

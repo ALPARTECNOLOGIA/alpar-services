@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>sysparm_query</name>
+        <order>100</order>
+        <rest_message_function display_value="Validar acesso">9a0145731bef3b40c4698777dc4bcb5d</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-09-04 10:51:31</sys_created_on>
+        <sys_id>0a1185731bef3b40c4698777dc4bcb02</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>sysparm_query</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_0a1185731bef3b40c4698777dc4bcb02</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-09-04 11:10:56</sys_updated_on>
+        <value>user.user_name=${user}^role.name=admin^state=active</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>

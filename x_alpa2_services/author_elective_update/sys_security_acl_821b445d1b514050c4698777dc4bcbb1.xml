@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_alpa2_services_candidates</description>
+        <name>x_alpa2_services_candidates</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-11-22 12:17:49</sys_created_on>
+        <sys_id>821b445d1b514050c4698777dc4bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_alpa2_services_candidates</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sys_security_acl_821b445d1b514050c4698777dc4bcbb1</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-11-22 12:17:49</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Services">372274451b637340c4698777dc4bcbe1</application>
+        <file_path/>
+        <instance_id>c2ae219d6f02de004c327b2f5d3ee4dc</instance_id>
+        <instance_name>alparbrdemo1</instance_name>
+        <name>sys_security_acl_821b445d1b514050c4698777dc4bcbb1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_alpa2_services_candidates</description><name>x_alpa2_services_candidates</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>victor.leite@alparservice.com.br</sys_created_by><sys_created_on>2019-11-22 12:17:49</sys_created_on><sys_id>821b445d1b514050c4698777dc4bcbb1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_alpa2_services_candidates</sys_name><sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package><sys_policy/><sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope><sys_update_name>sys_security_acl_821b445d1b514050c4698777dc4bcbb1</sys_update_name><sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by><sys_updated_on>2019-11-22 12:17:49</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>181109472</payload_hash>
+        <record_name>x_alpa2_services_candidates</record_name>
+        <reverted_from/>
+        <source>b722f8851b637340c4698777dc4bcbf1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-11-22 12:17:49</sys_created_on>
+        <sys_id>0e1b445d1b514050c4698777dc4bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e930c08e60000001</sys_recorded_at>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-11-22 12:17:49</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>461b445d8a514050b5c387bc473c50b6</update_guid>
+        <update_guid_history>461b445d8a514050b5c387bc473c50b6:181109472</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-01-06 14:17:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>15541e7db2fd419cbb1aa38abb2d6c90</sys_id>
+        <sys_metadata>821b445d1b514050c4698777dc4bcbb1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_alpa2_services_candidates</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_parent display_value="">d21b445d1b514050c4698777dc4bcbd6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_scope_delete display_value="">10c10ea971a8496086bc7174fedc0f90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_821b445d1b514050c4698777dc4bcbb1</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_821b445d1b514050c4698777dc4bcbb1">0e1b445d1b514050c4698777dc4bcbb6</sys_update_version>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-01-06 14:17:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_alpa2_services_collaborator" label="Candidate" max_length="40" name="x_alpa2_services_candidate" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Data de contratação" max_length="40" name="hiring_date" type="glide_date"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data de início" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>

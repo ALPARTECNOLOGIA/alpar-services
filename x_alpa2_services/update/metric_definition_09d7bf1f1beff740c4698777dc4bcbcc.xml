@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="metric_definition">
+    <metric_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <field>active</field>
+        <name>Tempo aberto</name>
+        <number>MTRC0010008</number>
+        <order>100</order>
+        <script><![CDATA[if (!current.active) {
+  answer = false;
+  mi.endDuration();
+  closeDurations(mi.current);
+}
+
+function closeDurations(current) {
+    var gr = new GlideRecord('metric_instance');
+    gr.addQuery('id', current.sys_id);
+    gr.addQuery('calculation_complete', false);
+    gr.addQuery('definition.type', 'field_value_duration');
+    gr.query();
+    while (gr.next()) {
+       var definition = new GlideRecord('metric_definition');
+       definition.get(gr.definition);
+       var mi = new MetricInstance(definition, current);
+       mi.endDuration();
+    }
+}]]></script>
+        <sys_class_name>metric_definition</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-09-03 10:50:43</sys_created_on>
+        <sys_id>09d7bf1f1beff740c4698777dc4bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tempo aberto</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>metric_definition_09d7bf1f1beff740c4698777dc4bcbcc</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-09-03 10:50:43</sys_updated_on>
+        <table>x_alpa2_services_request</table>
+        <timeline>false</timeline>
+        <type>field_value_duration</type>
+    </metric_definition>
+</record_update>

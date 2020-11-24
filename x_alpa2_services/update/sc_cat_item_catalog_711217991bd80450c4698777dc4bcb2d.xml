@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Dúvidas">8ce113991bd80450c4698777dc4bcb5a</sc_cat_item>
+        <sc_catalog display_value="Catalago de servicos">c02f638d1b6b7340c4698777dc4bcb9e</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-04 09:44:28</sys_created_on>
+        <sys_id>711217991bd80450c4698777dc4bcb2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalago de servicos.Dúvidas</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_711217991bd80450c4698777dc4bcb2d</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-04 09:44:28</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

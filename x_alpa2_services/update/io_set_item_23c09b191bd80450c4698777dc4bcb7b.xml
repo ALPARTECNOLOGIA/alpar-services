@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>5000</order>
+        <sc_cat_item display_value="Sugestões">c0affffc1bdc8050c4698777dc4bcb08</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2019-10-04 09:38:50</sys_created_on>
+        <sys_id>23c09b191bd80450c4698777dc4bcb7b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Descrição.Sugestões</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>io_set_item_23c09b191bd80450c4698777dc4bcb7b</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2019-10-04 09:38:51</sys_updated_on>
+        <variable_set display_value="Descrição">d9b01b191bd80450c4698777dc4bcbd1</variable_set>
+    </io_set_item>
+</record_update>

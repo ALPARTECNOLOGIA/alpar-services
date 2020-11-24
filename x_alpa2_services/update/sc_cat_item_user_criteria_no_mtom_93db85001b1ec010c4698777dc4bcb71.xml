@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Indique">595b09cc1bdac010c4698777dc4bcb6d</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-01-07 12:51:12</sys_created_on>
+        <sys_id>93db85001b1ec010c4698777dc4bcb71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Indique.SNC External</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_93db85001b1ec010c4698777dc4bcb71</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-01-07 12:51:12</sys_updated_on>
+        <user_criteria display_value="SNC External">434ab1ae137df300fc16b5b12244b043</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>

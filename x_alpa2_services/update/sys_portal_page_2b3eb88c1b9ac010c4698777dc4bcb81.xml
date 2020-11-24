@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-11-24 13:18:48">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-01-07 11:51:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2b3eb88c1b9ac010c4698777dc4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sys_portal_page_2b3eb88c1b9ac010c4698777dc4bcb81</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-01-07 11:51:41</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_18</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2b3eb88c1b9ac010c4698777dc4bcb81</page>
+                <summary>Entrevista</summary>
+                <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                <sys_created_on>2020-01-07 12:13:43</sys_created_on>
+                <sys_id>1e4345841bdac010c4698777dc4bcb89</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                <sys_updated_on>2020-01-07 12:13:43</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:43</sys_created_on>
+                        <sys_id>124345841bdac010c4698777dc4bcb8a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:43</sys_updated_on>
+                        <value>6ade74cc1b9ac010c4698777dc4bcba1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:43</sys_created_on>
+                        <sys_id>164345841bdac010c4698777dc4bcb8b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:43</sys_updated_on>
+                        <value>Entrevista</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:43</sys_created_on>
+                        <sys_id>1a4345841bdac010c4698777dc4bcb8a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:43</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:43</sys_created_on>
+                        <sys_id>524345841bdac010c4698777dc4bcb8b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:43</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:43</sys_created_on>
+                        <sys_id>564345841bdac010c4698777dc4bcb8a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:43</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:43</sys_created_on>
+                        <sys_id>9a4345841bdac010c4698777dc4bcb8b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:43</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:43</sys_created_on>
+                        <sys_id>9e4345841bdac010c4698777dc4bcb8a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:43</sys_created_on>
+                        <sys_id>da4345841bdac010c4698777dc4bcb8a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:43</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:26</sys_created_on>
+                        <sys_id>f07389841bdac010c4698777dc4bcba6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:26</sys_created_on>
+                        <sys_id>f07389841bdac010c4698777dc4bcba7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:26</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:26</sys_created_on>
+                        <sys_id>f47389841bdac010c4698777dc4bcba6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:26</sys_created_on>
+                        <sys_id>f47389841bdac010c4698777dc4bcba7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:26</sys_created_on>
+                        <sys_id>f87389841bdac010c4698777dc4bcba6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:26</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:26</sys_created_on>
+                        <sys_id>f87389841bdac010c4698777dc4bcba7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:26</sys_created_on>
+                        <sys_id>fc7389841bdac010c4698777dc4bcba6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:43">1e4345841bdac010c4698777dc4bcb89</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:26</sys_created_on>
+                        <sys_id>fc7389841bdac010c4698777dc4bcba7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2b3eb88c1b9ac010c4698777dc4bcb81</page>
+                <summary>Contratados por mes</summary>
+                <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                <sys_created_on>2020-01-07 12:25:48</sys_created_on>
+                <sys_id>57064d481bdac010c4698777dc4bcb3e</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                <sys_updated_on>2020-01-07 12:25:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:25:48</sys_created_on>
+                        <sys_id>1b064d481bdac010c4698777dc4bcb3f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:25:48</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:26:03</sys_created_on>
+                        <sys_id>431685881bdac010c4698777dc4bcb1c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:26:03</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:26:03</sys_created_on>
+                        <sys_id>431685881bdac010c4698777dc4bcb1d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:26:03</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:26:03</sys_created_on>
+                        <sys_id>471685881bdac010c4698777dc4bcb1c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:26:03</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:26:03</sys_created_on>
+                        <sys_id>471685881bdac010c4698777dc4bcb1d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:26:03</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:26:03</sys_created_on>
+                        <sys_id>4b1685881bdac010c4698777dc4bcb1c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:26:03</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:26:03</sys_created_on>
+                        <sys_id>4b1685881bdac010c4698777dc4bcb1d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:26:03</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:26:03</sys_created_on>
+                        <sys_id>4f1685881bdac010c4698777dc4bcb1b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:26:03</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:26:03</sys_created_on>
+                        <sys_id>4f1685881bdac010c4698777dc4bcb1c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:26:03</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:25:48</sys_created_on>
+                        <sys_id>9f064d481bdac010c4698777dc4bcb3e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:25:48</sys_updated_on>
+                        <value>56f54d481bdac010c4698777dc4bcb15</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:25:48</sys_created_on>
+                        <sys_id>9f064d481bdac010c4698777dc4bcb3f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:25:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:25:48</sys_created_on>
+                        <sys_id>9f0685881bdac010c4698777dc4bcb17</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:25:48</sys_updated_on>
+                        <value>Contratados por mes</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:25:48</sys_created_on>
+                        <sys_id>db064d481bdac010c4698777dc4bcb3f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:25:48</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07/01/2020 12:25:48">57064d481bdac010c4698777dc4bcb3e</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:25:48</sys_created_on>
+                        <sys_id>db0685881bdac010c4698777dc4bcb17</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:25:48</sys_updated_on>
+                        <value>spline</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2b3eb88c1b9ac010c4698777dc4bcb81</page>
+                <summary>Negociação</summary>
+                <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                <sys_created_on>2020-01-07 12:13:36</sys_created_on>
+                <sys_id>6c43c5441bdac010c4698777dc4bcb3a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                <sys_updated_on>2020-01-07 12:13:36</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:36</sys_created_on>
+                        <sys_id>2043c5441bdac010c4698777dc4bcb3d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:36</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:36</sys_created_on>
+                        <sys_id>2443c5441bdac010c4698777dc4bcb3c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:36</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:36</sys_created_on>
+                        <sys_id>2843c5441bdac010c4698777dc4bcb3b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:36</sys_updated_on>
+                        <value>640fb0cc1b9ac010c4698777dc4bcbe0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:54</sys_created_on>
+                        <sys_id>338389841bdac010c4698777dc4bcbaa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:54</sys_created_on>
+                        <sys_id>338389841bdac010c4698777dc4bcbab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:54</sys_created_on>
+                        <sys_id>378389841bdac010c4698777dc4bcba9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:54</sys_created_on>
+                        <sys_id>378389841bdac010c4698777dc4bcbaa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:54</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:54</sys_created_on>
+                        <sys_id>3b8389841bdac010c4698777dc4bcba9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:54</sys_created_on>
+                        <sys_id>3b8389841bdac010c4698777dc4bcbaa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:54</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:54</sys_created_on>
+                        <sys_id>3f8389841bdac010c4698777dc4bcba9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:54</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:54</sys_created_on>
+                        <sys_id>3f8389841bdac010c4698777dc4bcbaa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:54</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:36</sys_created_on>
+                        <sys_id>6c43c5441bdac010c4698777dc4bcb3c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:36</sys_created_on>
+                        <sys_id>a44389841bdac010c4698777dc4bcb62</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:36</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:36</sys_created_on>
+                        <sys_id>a843c5441bdac010c4698777dc4bcb3c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:36</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:36</sys_created_on>
+                        <sys_id>e043c5441bdac010c4698777dc4bcb3d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:36</sys_updated_on>
+                        <value>Negociação</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:36">6c43c5441bdac010c4698777dc4bcb3a</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:36</sys_created_on>
+                        <sys_id>e443c5441bdac010c4698777dc4bcb3c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:36</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2b3eb88c1b9ac010c4698777dc4bcb81</page>
+                <summary>Tempo médio</summary>
+                <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                <sys_created_on>2020-01-07 12:13:50</sys_created_on>
+                <sys_id>885389841bdac010c4698777dc4bcba1</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                <sys_updated_on>2020-01-07 12:13:50</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:50</sys_created_on>
+                        <sys_id>0c5389841bdac010c4698777dc4bcba2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:50</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:50</sys_created_on>
+                        <sys_id>485389841bdac010c4698777dc4bcba2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:50</sys_created_on>
+                        <sys_id>845389841bdac010c4698777dc4bcba2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:50</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:50</sys_created_on>
+                        <sys_id>8c5389841bdac010c4698777dc4bcba1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:50</sys_updated_on>
+                        <value>091345441bdac010c4698777dc4bcbf4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:50</sys_created_on>
+                        <sys_id>c05389841bdac010c4698777dc4bcba2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:50</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:50</sys_created_on>
+                        <sys_id>cc5389841bdac010c4698777dc4bcba2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:50</sys_updated_on>
+                        <value>Tempo médio</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:15:22</sys_created_on>
+                        <sys_id>e2a301c41bdac010c4698777dc4bcb95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:15:22</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:15:22</sys_created_on>
+                        <sys_id>e2a301c41bdac010c4698777dc4bcb96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:15:22</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:15:22</sys_created_on>
+                        <sys_id>e6a301c41bdac010c4698777dc4bcb95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:15:22</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:15:22</sys_created_on>
+                        <sys_id>e6a301c41bdac010c4698777dc4bcb96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:15:22</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:15:22</sys_created_on>
+                        <sys_id>eaa301c41bdac010c4698777dc4bcb95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:15:22</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:15:22</sys_created_on>
+                        <sys_id>eaa301c41bdac010c4698777dc4bcb96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:15:22</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:15:22</sys_created_on>
+                        <sys_id>eea301c41bdac010c4698777dc4bcb95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:15:22</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:50">885389841bdac010c4698777dc4bcba1</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:15:22</sys_created_on>
+                        <sys_id>eea301c41bdac010c4698777dc4bcb96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:15:22</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2b3eb88c1b9ac010c4698777dc4bcb81</page>
+                <summary>Banco de currículo</summary>
+                <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                <sys_created_on>2020-01-07 12:13:46</sys_created_on>
+                <sys_id>8f4345441bdac010c4698777dc4bcbea</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                <sys_updated_on>2020-01-07 12:13:46</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:46</sys_created_on>
+                        <sys_id>134345441bdac010c4698777dc4bcbec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:46</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:46</sys_created_on>
+                        <sys_id>1f4345441bdac010c4698777dc4bcbec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:46</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:46</sys_created_on>
+                        <sys_id>5f4345441bdac010c4698777dc4bcbeb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:46</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:08</sys_created_on>
+                        <sys_id>606305841bdac010c4698777dc4bcb61</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:08</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:08</sys_created_on>
+                        <sys_id>606305841bdac010c4698777dc4bcb62</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:08</sys_created_on>
+                        <sys_id>646305841bdac010c4698777dc4bcb61</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:08</sys_created_on>
+                        <sys_id>646305841bdac010c4698777dc4bcb62</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:08</sys_created_on>
+                        <sys_id>686305841bdac010c4698777dc4bcb60</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:08</sys_created_on>
+                        <sys_id>686305841bdac010c4698777dc4bcb61</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:08</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:08</sys_created_on>
+                        <sys_id>6c6305841bdac010c4698777dc4bcb60</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:08</sys_created_on>
+                        <sys_id>6c6305841bdac010c4698777dc4bcb61</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:46</sys_created_on>
+                        <sys_id>834345441bdac010c4698777dc4bcbeb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:46</sys_updated_on>
+                        <value>01ce30401bdac010c4698777dc4bcb72</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:46</sys_created_on>
+                        <sys_id>974345441bdac010c4698777dc4bcbec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:46</sys_updated_on>
+                        <value>Banco de currículo</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:46</sys_created_on>
+                        <sys_id>9b4345441bdac010c4698777dc4bcbeb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:46</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:46</sys_created_on>
+                        <sys_id>c74345441bdac010c4698777dc4bcbeb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:46</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:46">8f4345441bdac010c4698777dc4bcbea</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:46</sys_created_on>
+                        <sys_id>d34345441bdac010c4698777dc4bcbec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:46</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">2b3eb88c1b9ac010c4698777dc4bcb81</page>
+                <summary>Avaliação técnica</summary>
+                <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                <sys_created_on>2020-01-07 12:13:39</sys_created_on>
+                <sys_id>a94349841bdac010c4698777dc4bcb91</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                <sys_updated_on>2020-01-07 12:13:39</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:39</sys_created_on>
+                        <sys_id>294349841bdac010c4698777dc4bcb93</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:39</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:39</sys_created_on>
+                        <sys_id>2d4349841bdac010c4698777dc4bcb92</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:39</sys_created_on>
+                        <sys_id>694349841bdac010c4698777dc4bcb92</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:41</sys_created_on>
+                        <sys_id>a08381441bdac010c4698777dc4bcb79</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:41</sys_created_on>
+                        <sys_id>a08381441bdac010c4698777dc4bcb7a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:41</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:39</sys_created_on>
+                        <sys_id>a14349841bdac010c4698777dc4bcb93</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:39</sys_updated_on>
+                        <value>Avaliação técnica</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:41</sys_created_on>
+                        <sys_id>a48381441bdac010c4698777dc4bcb79</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:41</sys_created_on>
+                        <sys_id>a48381441bdac010c4698777dc4bcb7a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:39</sys_created_on>
+                        <sys_id>a54349841bdac010c4698777dc4bcb92</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:39</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:41</sys_created_on>
+                        <sys_id>a88381441bdac010c4698777dc4bcb79</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:41</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:41</sys_created_on>
+                        <sys_id>ac8381441bdac010c4698777dc4bcb79</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:39</sys_created_on>
+                        <sys_id>ad4349841bdac010c4698777dc4bcb91</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:39</sys_updated_on>
+                        <value>6eee34401bdac010c4698777dc4bcbe3</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:39</sys_created_on>
+                        <sys_id>e14349841bdac010c4698777dc4bcb92</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:39</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:41</sys_created_on>
+                        <sys_id>e483cd841bdac010c4698777dc4bcbc6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:14:41</sys_created_on>
+                        <sys_id>e883cd841bdac010c4698777dc4bcbc6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:14:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 07/01/2020 12:13:39">a94349841bdac010c4698777dc4bcb91</portal_section>
+                        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+                        <sys_created_on>2020-01-07 12:13:39</sys_created_on>
+                        <sys_id>ed4349841bdac010c4698777dc4bcb92</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+                        <sys_updated_on>2020-01-07 12:13:39</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

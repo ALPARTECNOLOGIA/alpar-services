@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>200</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>victor.leite@alparservice.com.br</sys_created_by>
+        <sys_created_on>2020-01-07 11:57:36</sys_created_on>
+        <sys_id>148fb0801bdac010c4698777dc4bcbcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>metric_instance</sys_name>
+        <sys_package display_value="Services" source="x_alpa2_services">372274451b637340c4698777dc4bcbe1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Services">372274451b637340c4698777dc4bcbe1</sys_scope>
+        <sys_update_name>sys_db_view_table_148fb0801bdac010c4698777dc4bcbcd</sys_update_name>
+        <sys_updated_by>victor.leite@alparservice.com.br</sys_updated_by>
+        <sys_updated_on>2020-01-07 11:57:36</sys_updated_on>
+        <table>metric_instance</table>
+        <variable_prefix>mi</variable_prefix>
+        <view display_value="x_alpa2_services_candidate_metric">832f3c401bdac010c4698777dc4bcba6</view>
+        <where_clause>mi_definition = md_sys_id</where_clause>
+    </sys_db_view_table>
+</record_update>
